@@ -1,0 +1,44 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.tablaperfil{
+    margin-top: 30px;
+    margin-left: 12px;
+}
+
+.perfilp{
+    width: 15rem;
+    border-radius: 12px;
+}
+
+.experiencia{
+    margin: 15px;
+    width: 98%;
+    height: 200px;
+    border-radius: 12px;
+}
+
+.Portafolio{
+    margin: 15px;
+    width: 98%;
+    height: 120px;
+    border-radius: 12px;
+}
+
+.titexp{
+    margin-left: 10px;
+    padding-top: 10px;
+    color: white;
+}
+
+.pexp{
+    margin-left: 10px;
+    padding-top: 10px;
+    color: white;
+}
+
+.enlaceport{
+    padding-left: 10px;
+    color: white;
+}
